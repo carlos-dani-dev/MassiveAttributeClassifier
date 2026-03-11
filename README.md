@@ -22,7 +22,13 @@
 
 <table>
 <tr>
-Detalharemos brevemente a estrutura do modelo de machine learning, que segue o definido por Terhörst em seu artigo MAAD-Face: A Massively Annotated Attribute Dataset for Face Images
+<tr>
+<p>A estrutura do modelo segue o definido por Terhörst em seu artigo MAAD-Face: A Massively Annotated Attribute Dataset for Face Images</p>
+</tr>
+<p>Para confecção do modelo, mantivemos contato direto com o autor do artigo, no intuito de manter a fidelidade ao projeto original</p>
+</tr>
+<tr>
+<p>Pyton, Tensorflow e Pandas, foram ferramentas base para o desenvolvimento e avaliação do modelo</p>
 </tr>
 </table>
 
@@ -31,7 +37,10 @@ Detalharemos brevemente a estrutura do modelo de machine learning, que segue o d
 
 <table>
 <tr>
-Além disso, também detalharemos a compilação e balanceamento do modelo com base em determinados atributos-chave para a detecção de DeepFake's
+<p>O paper original definide variáveis de compilação padrão para o classificador, que podem ser ajustadas para cada caso de uso</p>
+</tr>
+<tr>
+<p>Além disso, os datasets alvo, utilizados para treinamento do modelo de machine learning, foram balanceados de acordo com atributos-chave previamente definidos essenciais para a continuidade da pesquisa</p>
 </tr>
 </table>
 
@@ -39,6 +48,9 @@ Além disso, também detalharemos a compilação e balanceamento do modelo com b
 #### A função de predição para anotação de datasets de DeepFake
 
 <table>
+<tr>
+<p></p>
+</tr>
 <tr>
 Por fim, a função de predição será utilizada para anotação de imagens falsas e reais de Datasets específicos pré-definidos
 </tr>
