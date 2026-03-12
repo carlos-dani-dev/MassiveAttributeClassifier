@@ -1,0 +1,8 @@
+,Atributo,Predicao decoded,Predicao coded,Confiabilidade,model
+0,age,adult,0.9997561573982239,0.93336,mac_hybrid_200_2048_1e-05
+1,hair_type,curly,0.547598123550415,0.38168,mac_hybrid_200_2048_1e-05
+2,hair_color,black,0.9994776844978333,0.93025,mac_hybrid_200_2048_1e-05
+3,eye_color,black,0.9496098160743713,0.7084,mac_hybrid_200_2048_1e-05
+4,monk_scale,scale 5,0.5114700198173523,0.36254,mac_hybrid_200_2048_1e-05
+5,fitz_type,type iv,0.8715654015541077,0.5828,mac_hybrid_200_2048_1e-05
+6,male,1,1.0,0.95,mac_hybrid_200_2048_1e-05
